@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="darkThemeBackground">#121212</color>
+    <color name="darkThemeText">@android:color/white</color>
+    <color name="darkThemePurple">#BB86FC</color>
+    <color name="darkThemeTeal">#03DAC5</color>
+    <color name="darkThemeNavBar">#1F1B23</color>
+
+    <color name="whiteThemeBackground">@android:color/white</color>
+    <color name="whiteThemeText">@android:color/black</color>
+
+    <color name="lightThemeNavBar">@android:color/white</color>
+</resources>

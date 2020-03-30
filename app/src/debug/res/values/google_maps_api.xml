@@ -1,0 +1,30 @@
+<resources>
+    <!--
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=B8:2E:31:E2:EC:7B:3F:22:DE:D1:A6:5B:F1:6A:31:55:85:FE:3E:05%3Bcom.example.treintracker
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    B8:2E:31:E2:EC:7B:3F:22:DE:D1:A6:5B:F1:6A:31:55:85:FE:3E:05
+
+    SHA-1 certificate fingerprint:
+    B8:2E:31:E2:EC:7B:3F:22:DE:D1:A6:5B:F1:6A:31:55:85:FE:3E:05
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+
+    <!-- Bart -->
+<!--    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDTG11DO5YBv1ovpurVKt8UzqEMoBPYXHQ</string>-->
+
+
+    <!-- Jelmer -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyC39dYM-xCblBNl3BC8xjTNKC9Oheawj_4</string>
+
+</resources>

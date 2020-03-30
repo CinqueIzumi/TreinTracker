@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">TreinTracker</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_fragment_help">HELPFRAGMENT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="navigation_Map">Map</string>
+    <string name="navigation_Help">Help</string>
+    <string name="navigation_Settings">Settings</string>
+
+    <string name="closestBtn">Dichtstbijzijnde Station</string>
+    <string name="locationBtn">Verander Locatie</string>
+
+    <string name="radioBtnEng">Engels</string>
+    <string name="radioBtnNl">Nederlands</string>
+
+    <string name="radioBtnDark">Donker</string>
+    <string name="radioBtnWhite">Wit</string>
+
+
+    <string name="textViewLanguageDesc">Selecteer alstublieft de taal die u wilt gebruiken in de app</string>
+    <string name="currentLanguagePopup">De taal is veranderd naar: Nederlands</string>
+
+    <string name="textViewColorDesc">Selecteer alstublieft welk kleurenschema u wilt gebruiken in de app</string>
+
+
+    <string name="textViewHelpDescription">Onder het "Settings" tabblad aan de onderkant kan de taal en het kleurenschema van de app worden aangepast, </string>
+    <string name="textViewHelpLanguageSupport">De talen die ondersteund worden zijn: Engels en Nederlands</string>
+    <string name="textViewHelpColorSupport">De kleurenschemas die ondersteund worden zijn: Donker en Wit.</string>
+    <string name="textViewHelpChangeLocation">De locatie van het toestel kan aangepast worden door op de knop linksboven in het startscherm te klikken, na deze knop zult men op de kaart moeten klikken.
+    Als je ergens op de kaart hebt geklikt zal er een groene marker op de kaart komen, en de app zal de plek van deze marker gebruiken als de huidige locatie van het toestel.</string>
+</resources>

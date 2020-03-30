@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TreinTracker</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_fragment_help">HELPFRAGMENT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="navigation_Map">Map</string>
+    <string name="navigation_Help">Help</string>
+    <string name="navigation_Settings">Settings</string>
+
+    <string name="closestBtn">Closest Station</string>
+    <string name="locationBtn">Change Location</string>
+
+    <string name="radioBtnEng">English</string>
+    <string name="radioBtnNl">Dutch</string>
+
+    <string name="radioBtnDark">Dark</string>
+    <string name="radioBtnWhite">White</string>
+
+    <string name="textViewLanguageDesc">Please select which language you would like to use in the app</string>
+    <string name="currentLanguagePopup">The language has been changed to: English</string>
+
+    <string name="textViewColorDesc">Please select which color scheme you would like to use in the app</string>
+
+
+    <string name="textViewHelpDescription">Underneath the Settings tab in the bottom navigation bar the color scheme and the language of the app can be changed.</string>
+    <string name="textViewHelpLanguageSupport">The supported languages are: English and Dutch</string>
+    <string name="textViewHelpColorSupport">The supported color schemes are: Dark and White</string>
+    <string name="textViewHelpChangeLocation">The location of the device can be changed by clicking on the button in the top left of the main screen, after which you will have to click somewhere on the map.
+    Once you have clicked somewhere on the map, a green marker will show up, and the app will treat that marker as the current location of the device.</string>
+
+
+</resources>
